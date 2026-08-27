@@ -12,7 +12,7 @@ export const profile = {
   roles: ["Software Development Engineer 2, IQVIA", "Building Markecast on the side"],
 
   lede:
-    "I build the systems that move health data between hospitals, labs and platforms \u2014 and, on the side, the data infrastructure behind a stock-market analytics startup.",
+    "I build the systems that move health data between hospitals, labs and platforms \u2014 and, in my own time, the data infrastructure behind stock-market forecasting.",
 
   about: [
     "I am a software engineer in Chennai with over five years of experience, currently a <strong>Software Development Engineer 2 at IQVIA</strong>. Most of my career has been spent in health information technology, designing and maintaining the interfaces that let clinical systems talk to each other reliably.",
